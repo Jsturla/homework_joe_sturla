@@ -1,0 +1,32 @@
+1
+```{bash}
+$HOME
+```
+
+$HOME
+
+2
+```{bash}
+~/../../..
+```
+
+The command cd "" would take you to your root directory. The ~ symbol represents the home directory.
+
+3
+
+The l flag for the ls command will make the command respond in long format
+
+4 
+
+I get the file name, size, blocks, IO block, device, inode, Links, access Uid, Gid, last time accessed, modified, changed, and birth of the file
+
+5
+ls -l gives the size, creation date and time, and the root directory for the file.
+
+
+6
+Done
+
+
+7
+Done
